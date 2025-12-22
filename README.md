@@ -1,10 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xoFPmgXs)
-# IMDB 데이터를 활용한 영화 평점 예측 서비스 개발 및 MLOps 파이프라인 구축
+# TMDB 데이터를 활용한 영화 평점 예측 서비스 개발 및 MLOps 파이프라인 구축
 ## ML 3조
 
-| ![정다영](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김대섭](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박성재](https://avatars.githubusercontent.com/u/156163982?v=4) | ![서효림](https://avatars.githubusercontent.com/u/156163982?v=4) | ![심우용](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![정다영](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김대섭](https://avatars.githubusercontent.com/u/156163982?v=4) | ![박성재](https://avatars.githubusercontent.com/u/156163982?v=4) | ![서효림](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [정다영](https://github.com/UpstageAILab)             |            [김대섭](https://github.com/UpstageAILab)             |            [박성재](https://github.com/UpstageAILab)             |            [서효림](https://github.com/UpstageAILab)             |            [심우용](https://github.com/UpstageAILab)             |
+|            [정다영](https://github.com/UpstageAILab)             |            [김대섭](https://github.com/UpstageAILab)             |            [박성재](https://github.com/UpstageAILab)             |            [서효림](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 
@@ -19,7 +19,7 @@
 
 ### Overview
 
-- IMDB 데이터를 활용한 영화 평점 예측 서비스 개발 및 MLOps 파이프라인 구축
+- TMDB 데이터를 활용한 영화 평점 예측 서비스 개발 및 MLOps 파이프라인 구축
 
 ### Timeline
 
@@ -52,8 +52,7 @@ e.g. (샘플)
 
 ### Dataset overview
 
-- IMDB 데이터를 활용한 영화 평점 예측 정보
-- IMDB Link : https://www.imdb.com/
+- TMDB 데이터를 활용한 영화 평점 예측 정보
 
 ### EDA
 
